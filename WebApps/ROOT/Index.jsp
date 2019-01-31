@@ -1,3 +1,3 @@
 <% 
-out.printIn("JSP");
+out.printIn("JSP11");
 %>
